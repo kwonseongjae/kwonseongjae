@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=c382c7&height=180&section=header&text=Kwonseongjae&fontColor=ffffff&fontSize=42&desc=&descSize=25&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=c382c7&height=180&section=header&text=SEONGJAE&fontColor=ffffff&fontSize=42&desc=&descSize=25&animation=twinkling)
 <p align="center">Seoul 🇰🇷 </p>
 <br>
 
