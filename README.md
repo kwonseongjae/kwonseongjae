@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=c382c7&height=180&section=header&text=WOOSEOK&fontColor=ffffff&fontSize=42&desc=&descSize=25&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=c382c7&height=180&section=header&text=Kwonseongjae&fontColor=ffffff&fontSize=42&desc=&descSize=25&animation=twinkling)
 <p align="center">Seoul 🇰🇷 </p>
 <br>
 
@@ -25,11 +25,11 @@
 
 <br> 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woosook0127&show_icons=true&theme=radical) 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonseongjae&show_icons=true&theme=radical) 
 
 <br> 
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woosook0127&layout=compact&theme=radical)](https://github.com/woosook0127/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwonseongjae&layout=compact&theme=radical)](https://github.com/kwonseongjae/github-readme-stats)
 -->
 
