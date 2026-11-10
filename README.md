@@ -69,7 +69,7 @@ HD USB·FHD 모바일/TCP 30fps · 자동 라벨 10,037쌍 · 평균 정밀도 0
 
 <p align="center">
 <b><a href="https://github.com/kwonseongjae/ai-blog-automation">🤖 블로그 콘텐츠 생성·자동 발행</a></b><br>
-개인 프로젝트 · 2026.03~현재 · 누적 370편 이상 · Vision 캡차 처리·발행 큐·멱등 가드<br>
+개인 프로젝트 · 2026.03~현재 · 발행 이력 449건 · Vision 캡차 처리·발행 큐·멱등 가드<br>
 검색 유입 83% 감소 진단 · 그라운딩 생성 함수·40일간 0 기록 계측 오류 수정<br>
 <sub>Python · FastAPI · Selenium · Gemini/OpenAI · <a href="https://jack-0314.tistory.com">라이브 블로그</a> · <a href="https://kwonseongjae.github.io/ebook-landing/">엔지니어링 전자책</a></sub>
 </p>
