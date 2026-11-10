@@ -51,12 +51,38 @@
 <h3 align="center">🚀 Projects</h3>
 
 <p align="center">
-<b><a href="https://github.com/kwonseongjae/ai-blog-automation">🤖 AI 블로그 자동화 시스템</a></b><br>
-API가 사라진 Tistory에 사람 개입 없이 매일 글을 발행하는 무인 시스템.<br>
-콘텐츠 생성(LLM) → SEO → 브라우저 발행 → 색인까지 풀 파이프라인.<br>
-핵심은 <b>안정화</b> — 세션/2FA, 1회용 임시 프로필, 멈춤 자가복구, 내구성 발행 큐.<br>
-<sub>Python · FastAPI · Selenium · Gemini/OpenAI · APScheduler · Pytest(TDD)</sub><br>
-🟢 <a href="https://jack-0314.tistory.com">라이브 블로그</a> · 📘 <a href="https://kwonseongjae.github.io/ebook-landing/">엔지니어링 전자책</a>
+<b>💡 LED 부품 검색·견적 플랫폼 및 전문상담 챗봇</b><br>
+회사 프로젝트 · 2026.05~현재 · 2명 팀 · 기획·풀스택·챗봇·검증 담당<br>
+118개 제조사 · 사양 정답 23→97/100 · 통계 38→110/110 · 질문당 1.3원<br>
+<sub>Next.js · TypeScript · MySQL · OpenAI API · Function Calling · Jest</sub>
+</p>
+
+<p align="center">
+<b>🎥 실시간 인물 분리·합성 시스템</b><br>
+회사 프로젝트 · 2024.06~2025.12 · 3명 팀 · 학습 서버·모델 학습·추론·앱 담당<br>
+HD USB·FHD 모바일/TCP 30fps · 자동 라벨 10,037쌍 · 평균 정밀도 0.929<br>
+<sub>PyTorch · SAM2 · YOLO · TorchScript FP16 · <a href="https://github.com/kwonseongjae/Segment-anything-model2-SAM2_Real-Time-Inference-without-Chromakey">SAM2 단계 공개 구현</a></sub>
+</p>
+
+<p align="center">
+<b><a href="https://github.com/kwonseongjae/ai-blog-automation">🤖 블로그 콘텐츠 생성·자동 발행</a></b><br>
+개인 프로젝트 · 2026.03~현재 · 누적 370편 이상 · Vision 캡차 처리·발행 큐·멱등 가드<br>
+검색 유입 83% 감소 진단 · 그라운딩 생성 함수·40일간 0 기록 계측 오류 수정<br>
+<sub>Python · FastAPI · Selenium · Gemini/OpenAI · <a href="https://jack-0314.tistory.com">라이브 블로그</a> · <a href="https://kwonseongjae.github.io/ebook-landing/">엔지니어링 전자책</a></sub>
+</p>
+
+<p align="center">
+<b><a href="https://github.com/kwonseongjae/youtube-shorts-automation">🎬 YouTube Shorts 자동화 SaaS</a></b><br>
+개인 프로젝트 · 2026.03~2026.10 · 수집→한국어 스크립트·TTS·자막·BGM→업로드·주간 분석<br>
+소스 클립 119개 · 영상 생성 69개 · Shorts 업로드 53개<br>
+<sub>FastAPI · Celery Worker/Beat · Docker Compose · Nginx · YouTube API</sub>
+</p>
+
+<p align="center">
+<b><a href="https://github.com/kwonseongjae/budget-book">💰 부부 가계부 + 증권사 Open API</a></b><br>
+개인 프로젝트 · 2026.10 · 시트 자동 생성·공유와 반복 지출·예산·자산 관리<br>
+증권 계좌 2개 실연동 · 평가액·손익 자동 갱신 · Pytest 108개·Apps Script 테스트<br>
+<sub>Python · Google Sheets API · Google Apps Script · 메리츠증권 Open API</sub>
 </p>
 
 <br>
