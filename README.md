@@ -55,14 +55,14 @@
 
 <p align="center">
 <b>💡 LED 부품 검색·견적 플랫폼 및 전문상담 챗봇</b><br>
-회사 프로젝트 · 2026.05~현재 · 2명 팀 · 기획·풀스택·챗봇·검증 담당<br>
+회사 프로젝트 · 2026.05~현재 · 3명 팀 · 기획·풀스택·챗봇·검증 담당<br>
 118개 제조사 · 사양 정답 23→97/100 · 통계 38→110/110 · 질문당 1.3원<br>
 <sub>Next.js · TypeScript · MySQL · OpenAI API · Function Calling · Jest</sub>
 </p>
 
 <p align="center">
 <b>🎥 실시간 인물 분리·합성 시스템</b><br>
-회사 프로젝트 · 2024.06~2025.12 · 3명 팀 · 학습 서버·모델 학습·추론·앱 담당<br>
+회사 프로젝트 · 2024.06~2025.12 · 4명 팀 · 학습 서버·모델 학습·추론·앱 담당<br>
 HD USB·FHD 모바일/TCP 30fps · 자동 라벨 10,037쌍 · 평균 정밀도 0.929<br>
 <sub>PyTorch · SAM2 · YOLO · TorchScript FP16 · <a href="https://github.com/kwonseongjae/Segment-anything-model2-SAM2_Real-Time-Inference-without-Chromakey">SAM2 단계 공개 구현</a></sub>
 </p>
