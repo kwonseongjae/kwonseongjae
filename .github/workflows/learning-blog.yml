@@ -1,0 +1,30 @@
+name: 최신 학습 글 반영
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: learning-blog-profile
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: RSS 입력과 목록 변환 검증
+        run: python3 -m unittest discover -s tests -v
+      - name: 최신 학습 글 읽기
+        run: python3 scripts/sync_blog_posts.py
+      - name: 바뀐 목록 저장
+        run: |
+          if ! git diff --quiet -- README.md; then
+            git add README.md
+            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'chore: 최신 학습 글 목록 갱신'
+            git push
+          fi

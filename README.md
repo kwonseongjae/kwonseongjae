@@ -4,8 +4,21 @@
 
 <p align="center">
   <a href="https://github.com/kwonseongjae/ai-blog-automation"><img src="https://img.shields.io/badge/Featured-AI%20블로그%20자동화-2E86C1?style=flat-square"/></a>
-  <a href="https://jack-0314.tistory.com"><img src="https://img.shields.io/badge/Live%20Blog-jack--0314.tistory.com-FF5722?style=flat-square"/></a>
+  <a href="https://jacks-aiblog.tistory.com"><img src="https://img.shields.io/badge/Learning%20Blog-jacks--aiblog.tistory.com-245D99?style=flat-square"/></a>
 </p>
+
+<br>
+
+<h3>기술 학습 기록</h3>
+
+Python·API·자동화를 작은 예제로 확인하고 실행 결과와 한계를 기록합니다.
+
+- [학습 블로그](https://jacks-aiblog.tistory.com/)
+- [예제 코드와 테스트](https://github.com/kwonseongjae/ai-blog-automation/tree/main/labs)
+
+<!-- BLOG-POST-LIST:START -->
+- [Python 자동화의 하루 기준을 한국 시간으로 정하는 방법](https://jacks-aiblog.tistory.com/1) <sub>2026-11-13</sub>
+<!-- BLOG-POST-LIST:END -->
 
 <br>
 
