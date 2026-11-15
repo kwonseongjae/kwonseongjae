@@ -9,12 +9,18 @@
 
 <br>
 
-<h3>기술 학습 기록</h3>
+<h3>Jack의 AI 개발노트</h3>
 
-Python·API·자동화를 작은 예제로 확인하고 실행 결과와 한계를 기록합니다.
+AI를 처음 쓰는 개발자를 위해 도구 설정, 에이전트·모델 선택 기준, 직접 만든 프로젝트에 적용한 과정을 실행 결과와 함께 기록합니다.
 
-- [학습 블로그](https://jacks-aiblog.tistory.com/)
-- [예제 코드와 테스트](https://github.com/kwonseongjae/ai-blog-automation/tree/main/labs)
+```
+focus:   AI 도구 활용 · 자동화 · 백엔드
+writing: jacks-aiblog.tistory.com (하루 최대 한 편, 확인한 내용만)
+code:    github.com/kwonseongjae/ai-blog-automation
+```
+
+- [기술블로그](https://jacks-aiblog.tistory.com/)
+- [블로그 발행기와 테스트 코드](https://github.com/kwonseongjae/ai-blog-automation)
 
 <!-- BLOG-POST-LIST:START -->
 - [AI 에이전트란? 챗봇과 다른 점과 처음 맡길 일 3가지](https://jacks-aiblog.tistory.com/3) <sub>2026-11-15</sub>
