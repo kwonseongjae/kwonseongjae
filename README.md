@@ -17,6 +17,7 @@ Python·API·자동화를 작은 예제로 확인하고 실행 결과와 한계�
 - [예제 코드와 테스트](https://github.com/kwonseongjae/ai-blog-automation/tree/main/labs)
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 에이전트란? 챗봇과 다른 점과 처음 맡길 일 3가지](https://jacks-aiblog.tistory.com/3) <sub>2026-11-15</sub>
 - [터미널에서는 되는데 예약 실행에서는 파일을 못 찾는 이유](https://jacks-aiblog.tistory.com/2) <sub>2026-11-14</sub>
 - [Python 자동화의 하루 기준을 한국 시간으로 정하는 방법](https://jacks-aiblog.tistory.com/1) <sub>2026-11-13</sub>
 <!-- BLOG-POST-LIST:END -->
