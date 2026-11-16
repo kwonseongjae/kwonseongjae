@@ -15,7 +15,7 @@ AI를 처음 쓰는 개발자를 위해 도구 설정, 에이전트·모델 선�
 
 ```
 focus:   AI 도구 활용 · 자동화 · 백엔드
-writing: jacks-aiblog.tistory.com (하루 최대 한 편, 확인한 내용만)
+writing: jacks-aiblog.tistory.com
 code:    github.com/kwonseongjae/ai-blog-automation
 ```
 
