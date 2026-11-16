@@ -23,6 +23,7 @@ code:    github.com/kwonseongjae/ai-blog-automation
 - [블로그 발행기와 테스트 코드](https://github.com/kwonseongjae/ai-blog-automation)
 
 <!-- BLOG-POST-LIST:START -->
+- [Codex 처음 쓸 때: 설치&amp;middot;로그인&amp;middot;작업 폴더부터 확인하는 법](https://jacks-aiblog.tistory.com/4) <sub>2026-11-16</sub>
 - [AI 에이전트란? 챗봇과 다른 점과 처음 맡길 일 3가지](https://jacks-aiblog.tistory.com/3) <sub>2026-11-15</sub>
 - [터미널에서는 되는데 예약 실행에서는 파일을 못 찾는 이유](https://jacks-aiblog.tistory.com/2) <sub>2026-11-14</sub>
 - [Python 자동화의 하루 기준을 한국 시간으로 정하는 방법](https://jacks-aiblog.tistory.com/1) <sub>2026-11-13</sub>
