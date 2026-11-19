@@ -23,11 +23,11 @@ code:    github.com/kwonseongjae/ai-blog-automation
 - [블로그 발행기와 테스트 코드](https://github.com/kwonseongjae/ai-blog-automation)
 
 <!-- BLOG-POST-LIST:START -->
+- [AI 코딩 도구 권한 처음 설정하기: 파일을 만들기 전에 물어보게 하는 법](https://jacks-aiblog.tistory.com/7) <sub>2026-11-19</sub>
 - [AGENTS.md와 CLAUDE.md 처음 쓰기: 어떤 파일을 읽는지 직접 확인하는 법](https://jacks-aiblog.tistory.com/6) <sub>2026-11-18</sub>
 - [Claude Code 처음 설정하기: Windows와 WSL 명령을 섞지 않는 법](https://jacks-aiblog.tistory.com/5) <sub>2026-11-17</sub>
 - [Codex 처음 쓸 때: 설치&amp;middot;로그인&amp;middot;작업 폴더부터 확인하는 법](https://jacks-aiblog.tistory.com/4) <sub>2026-11-16</sub>
 - [AI 에이전트란? 챗봇과 다른 점과 처음 맡길 일 3가지](https://jacks-aiblog.tistory.com/3) <sub>2026-11-15</sub>
-- [터미널에서는 되는데 예약 실행에서는 파일을 못 찾는 이유](https://jacks-aiblog.tistory.com/2) <sub>2026-11-14</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <br>
